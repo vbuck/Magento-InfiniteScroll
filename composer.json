@@ -1,0 +1,15 @@
+{
+    "name"          : "strategery/magento-infinitescroll",
+    "type"          : "magento-module",
+    "license"       : "MIT",
+    "homepage"      : "http://usestrategery.com/",
+    "description"   : "Automatically load the next page of products in Magento.",
+    "authors": [
+        {
+            "name"  : "Strategery, Inc."
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
